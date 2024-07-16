@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'ONE-Mobile-POP';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/ONE-Mobile-POP.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 768px) {
+    .header {
+        background-size: 50% auto; /* Adjust image size */
+        background-position: top center;
+        padding: 10px;
+    }
+
+    .nav-menu {
+        display: block;
+        text-align: center;
+    }
+
+    .nav-menu li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .navigation h1 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header {
+        background-image: none; /* 이미지를 제거하여 겹치는 문제 방지 */
+        padding: 5px;
+    }
+
+    .logo {
+        font-size: 24px;
+    }
+
+    .nav-menu li a {
+        font-size: 14px;
+    }
+
+    .navigation h1 {
+        font-size: 18px;
+    }
+}
+
+.header {
+    background-image: url('/public/image/dog1.png'), url('/public/image/dog2.png');
+    background-size: contain, contain; /* 또는 cover, cover */
+    background-repeat: no-repeat;
+    background-position: top left, top right;
+    text-align: center;
+    background-color: hsl(6, 93%, 71%);
+    font-family: 'ONE-Mobile-POP';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.logo a {
+    color: black;
+    text-decoration: none;
+}
+
+.navigation {
+    text-align: center;
+    width: 100%;
+}
+
+.nav-menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 20px 0; /* Adjust the margin to provide space below the nav menu */
+}
+
+.nav-menu li {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.nav-menu li a {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav-menu li a:hover {
+    text-decoration: underline;
+}
+
+.navigation h1 {
+    margin-top: 20px; /* Add margin to separate from nav-menu if needed */
+}
+

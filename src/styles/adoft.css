@@ -1,0 +1,52 @@
+.adoft {
+    text-align: center;
+    padding: 20px;
+    background: #ECE9E6;
+    background: -webkit-linear-gradient(to left, #FFFFFF, #ECE9E6);
+    background: linear-gradient(to left, #FFFFFF, #ECE9E6);
+}
+
+.animal-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* 카드들을 중앙에 정렬 */
+    gap: 20px;
+    /* 카드 사이의 간격 설정 */
+}
+
+.animal-card {
+    flex: 1 1 calc(20% - 20px);
+    /* 4개의 카드를 한 줄에 배치하고 간격을 고려한 너비 설정 */
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    /* 아래쪽 간격 추가 */
+    text-align: left;
+    box-sizing: border-box;
+    /* 패딩과 보더를 포함한 너비 계산 */
+}
+
+
+.animal-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.charts {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    margin-top: 20px;
+    gap: 20px;
+    /* 차트 간의 간격을 줍니다 */
+}
+
+.chart-container {
+    background-color: #ccc;
+    width: 30%;
+    margin: 10px;
+    padding: 20px 0;
+}
