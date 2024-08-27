@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-adorable/static/css/main.b59ba896.css",
-    "main.js": "/react-adorable/static/js/main.16f42f17.js",
+    "main.js": "/react-adorable/static/js/main.ce9eb494.js",
     "static/js/453.773f07d1.chunk.js": "/react-adorable/static/js/453.773f07d1.chunk.js",
     "static/media/dog3.jpg": "/react-adorable/static/media/dog3.64f0d35290ed8dbf0a13.jpg",
     "index.html": "/react-adorable/index.html",
     "main.b59ba896.css.map": "/react-adorable/static/css/main.b59ba896.css.map",
-    "main.16f42f17.js.map": "/react-adorable/static/js/main.16f42f17.js.map",
+    "main.ce9eb494.js.map": "/react-adorable/static/js/main.ce9eb494.js.map",
     "453.773f07d1.chunk.js.map": "/react-adorable/static/js/453.773f07d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b59ba896.css",
-    "static/js/main.16f42f17.js"
+    "static/js/main.ce9eb494.js"
   ]
 }
