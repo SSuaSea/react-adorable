@@ -1,4 +1,4 @@
-# 유기견보호센터
+# 유기견보호센터 프로젝트 소개
 
 ## 기술스택
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -8,4 +8,11 @@
 
 학원에서 HTML,CSS로 작업한 1차 프로젝트를 완성도를 높여 리액트로 변환하기 위해 작업하였습니다.<br/>
 참고자료:https://ssuasea.github.io/adorable/
+
+## 작업내용
+
+![image](https://github.com/user-attachments/assets/f29ef497-2fd0-4d29-bbe2-10a57b1bfaf5)
+![image](https://github.com/user-attachments/assets/f6df4976-89b3-4feb-9484-37a38bce0665)
+
+공공데이터포털(https://www.data.go.kr/)내 유기견공공데이터 API를 호출하여 실시간 유기견 현황 및 유기견그래프 구현
 
