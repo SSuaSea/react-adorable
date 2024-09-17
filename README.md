@@ -14,5 +14,5 @@
 ![image](https://github.com/user-attachments/assets/f29ef497-2fd0-4d29-bbe2-10a57b1bfaf5)
 ![image](https://github.com/user-attachments/assets/f6df4976-89b3-4feb-9484-37a38bce0665)
 
-공공데이터포털(https://www.data.go.kr/)내 유기견공공데이터 API를 호출하여 실시간 유기견 현황 및 유기견그래프 구현
+공공데이터포털(https://www.data.go.kr/) 유기견공공데이터 API를 호출하여 실시간 유기견 현황 및 유기견그래프 구현
 
