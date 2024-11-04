@@ -21,6 +21,7 @@
 수량에 따라 금액합산
 ![image](https://github.com/user-attachments/assets/b02e59e5-a3db-405e-b773-d9bcc962490b)
 
+![image](https://github.com/user-attachments/assets/43ad3e6e-2583-4147-a678-0c67f2a5adf1)
 
 
 
