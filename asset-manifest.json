@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-adorable/static/css/main.74d7d204.css",
-    "main.js": "/react-adorable/static/js/main.1c25a91e.js",
+    "main.js": "/react-adorable/static/js/main.05192590.js",
     "static/js/453.773f07d1.chunk.js": "/react-adorable/static/js/453.773f07d1.chunk.js",
     "index.html": "/react-adorable/index.html",
     "main.74d7d204.css.map": "/react-adorable/static/css/main.74d7d204.css.map",
-    "main.1c25a91e.js.map": "/react-adorable/static/js/main.1c25a91e.js.map",
+    "main.05192590.js.map": "/react-adorable/static/js/main.05192590.js.map",
     "453.773f07d1.chunk.js.map": "/react-adorable/static/js/453.773f07d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74d7d204.css",
-    "static/js/main.1c25a91e.js"
+    "static/js/main.05192590.js"
   ]
 }
