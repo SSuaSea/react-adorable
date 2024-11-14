@@ -17,16 +17,31 @@
 ### Chart.js를 이용한 그래프 구현
 ![image](https://github.com/user-attachments/assets/f6df4976-89b3-4feb-9484-37a38bce0665)
 
+### 로그인/회원가입 기능구현
+MYSQL을 이용한 회원가입/로그인 구현
+
+![image](https://github.com/user-attachments/assets/3c5a5902-ec28-4948-853c-14a6c4573cf8)
+
+![image](https://github.com/user-attachments/assets/b4d39055-3150-44fb-a9c5-b5a07395509c)
+
+비밀번호변경 기능구현
+![image](https://github.com/user-attachments/assets/8bded797-02f6-45b3-b807-b1c6b8f5ca94)
+
 ### 장바구니 기능구현
 수량에 따라 금액합산
 ![image](https://github.com/user-attachments/assets/b02e59e5-a3db-405e-b773-d9bcc962490b)
 
 ![image](https://github.com/user-attachments/assets/43ad3e6e-2583-4147-a678-0c67f2a5adf1)
 
-### 로그인 기능구현
+### 프로필사진 업로드 구현
 
-비밀번호변경 기능구현
-![image](https://github.com/user-attachments/assets/8bded797-02f6-45b3-b807-b1c6b8f5ca94)
+![image](https://github.com/user-attachments/assets/4feaaf64-ac7f-4d7d-b85e-625c8a0899d6)
+
+
+
+
+
+
 
 
 
